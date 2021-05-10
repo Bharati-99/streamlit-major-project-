@@ -64,7 +64,6 @@ tensorboard==1.15.0
 tensorflow-cpu==1.15.0
 tensorflow-cpu-estimator==1.15.1
 tornado==5.1.1
-urllib3==1.24.1
 validators==0.18.1
 waitress==2.0.0
 wasabi==0.8.2

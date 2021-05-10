@@ -60,7 +60,6 @@ scipy==1.4.1
 seaborn==0.9.0
 spacy==2.1.8
 streamlit==0.73.1
-tables==3.4.4
 tensorboard==1.15.0
 tensorflow-cpu==1.15.0
 tensorflow-cpu-estimator==1.15.1
